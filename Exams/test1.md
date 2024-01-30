@@ -125,4 +125,3 @@ void display_points (const vector<MyPoint> &points) {
 > Answer: `points.cend()`
 
 5. Extra Credit: Solve the following recurrence relation $x(n) = x(n/3) + n$ for all $n > 1$, $x(1) = 1$. You can assume that $n = 3^k$.
-> Answer: 
