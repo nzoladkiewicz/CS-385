@@ -89,6 +89,7 @@ int function4 (int array[], int n) {
 int a = 11;
 cout << (((a << 3) | 14) >> (a & 23)) << endl;
 ```
+> Answer: 11
 
 4b. Suppose you have allocated an array of twenty doubles, called `values`, on the heap. Write the line of code to free up the memory when the array is no longer needed.
 > Answer: `delete [] values;`
