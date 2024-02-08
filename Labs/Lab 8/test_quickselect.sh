@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 targetfile=quickselect.cpp
