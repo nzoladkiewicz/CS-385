@@ -1,0 +1,34 @@
+* Author : Natalie Zoladkiewicz 
+* Pledge : I pledge my honor that I have abided by the Stevens Honor System. 
+  
+Test 1...ok (0.004s) valgrind...ok 
+Test 2...ok (0.004s) valgrind...ok 
+Test 3...ok (0.004s) valgrind...ok 
+Test 4...ok (0.004s) valgrind...ok 
+Test 5...ok (0.004s) valgrind...ok 
+Test 6...ok (0.004s) valgrind...ok 
+Test 7...ok (0.004s) valgrind...ok 
+Test 8...ok (0.004s) valgrind...ok 
+Test 9...ok (0.004s) valgrind...ok 
+Test 10...ok (0.003s) valgrind...ok 
+Test 11...ok (0.004s) valgrind...ok 
+Test 12...ok (0.004s) valgrind...ok 
+Test 13...ok (0.004s) valgrind...failed 
+Test 14...ok (0.004s) valgrind...failed 
+Test 15...ok (0.004s) valgrind...failed 
+Test 16...ok (0.004s) valgrind...failed 
+Test 17...ok (0.004s) valgrind...failed 
+Test 18...ok (0.004s) valgrind...failed 
+Test 19...ok (0.004s) valgrind...failed 
+Test 20...ok (0.004s) valgrind...failed 
+Test 21...ok (0.004s) valgrind...failed 
+Test 22...ok (0.004s) valgrind...failed 
+Test 23...ok (0.004s) valgrind...failed 
+Test 24...ok (0.004s) valgrind...failed 
+Test 25...ok (0.004s) valgrind...failed 
+
+Total tests run: 25 
+Number correct : 25 
+Percent correct: 100% 
+Memory problems: 13 (-5 each, max of -15) 
+Final score: score - penalties = 100 - 15 = 85
