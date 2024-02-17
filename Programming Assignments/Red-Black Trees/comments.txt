@@ -1,0 +1,20 @@
+* Author : Natalie Zoladkiewicz 
+* Pledge : I pledge my honor that I have abided by the Stevens Honor System. 
+  
+Test 1...ok (0.004s) valgrind...ok 
+Test 2...ok (0.004s) valgrind...ok 
+Test 3...ok (0.003s) valgrind...ok 
+Test 4...ok (0.004s) valgrind...ok 
+Test 5...ok (0.004s) valgrind...ok 
+Test 6...ok (0.004s) valgrind...ok 
+Test 7...ok (0.004s) valgrind...ok 
+Test 8...ok (0.004s) valgrind...ok 
+Test 9...ok (0.004s) valgrind...ok 
+Test 10...ok (0.004s) valgrind...ok 
+Test 11...ok (0.004s) valgrind...ok 
+Test 12...ok (0.004s) valgrind...ok 
+
+Total tests run: 12 
+Number correct : 12 
+Percent correct: 100% 
+Final score: score - penalties = 100 - 0 = 100
