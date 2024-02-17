@@ -25,11 +25,7 @@ void shaker_sort(int array[], const int length) {
 ```
 
 #### Show the array [2, 1, 9, 7, 6] after the do-while loop executes once. Parameters: int array[] = [2, 1, 9, 7, 6], const int length = 5
-> First element: 1
-> Second element: 2
-> Third element: 6
-> Fourth element: 7
-> Fifth element: 9
+> Order of elements: 1, 2, 6, 7, 9
 
 #### What is the best-case complexity of the algorithm above?
 > Symbol:
