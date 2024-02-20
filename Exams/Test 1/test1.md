@@ -32,7 +32,7 @@ void function2 (int n) {
 
 1c. 
 ```cpp
-int function3 (int arr1[]. int arr2[], int n) {
+int function3 (int arr1[], int arr2[], int n) {
   int count = 0;
   for (int i = 1; i <= n / i && arr1[i] != arr2[i]; i++) {
     count++;
