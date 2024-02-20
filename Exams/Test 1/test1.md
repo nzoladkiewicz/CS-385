@@ -11,7 +11,7 @@ void function1 (int n) {
   }
 }
 ```
-> Answer: $O(n^2)$
+> Answer: $\Theta(n lg n)$
 
 1b.
 ```cpp
