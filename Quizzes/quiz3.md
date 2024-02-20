@@ -28,12 +28,10 @@ void shaker_sort(int array[], const int length) {
 > Order of elements: 1, 2, 6, 7, 9
 
 #### What is the best-case complexity of the algorithm above?
-> Symbol:
-> Function:
+> $`\Theta`$$(n)$
 
 #### What is the worst-case complexity of the algorithm above?
-> Symbol:
-> Function:
+> $`\Theta`$(n<sup>2</sup>)
 
 #### Which of the sorting algorithms discussed in class is closest to what Suzy has written?
 > Bubble sort
